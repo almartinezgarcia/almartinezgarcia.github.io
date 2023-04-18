@@ -1,0 +1,25 @@
+@charset "utf-8";
+#survey strong {
+    color: #A703F4;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: large;
+    border-bottom: medium solid #5DC6D6;
+}
+#custInfo {
+    color: #A603F4;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    border: thick dotted #82D3DF;
+}
+#submit {
+    background-color: #A651F6;
+    color: #F8F8F8;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-size: large;
+    word-spacing: px;
+    letter-spacing: 3px;
+    border-style: double;
+    margin-left: 500px;
+    border-color: #82D3DF;
+}
+#header {
+}
